@@ -1,0 +1,12 @@
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\bin\Debug\FlooringMaster.UI.exe.config
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\bin\Debug\FlooringMaster.UI.exe
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\bin\Debug\FlooringMaster.UI.pdb
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\obj\Debug\FlooringMaster.UI.csprojResolveAssemblyReference.cache
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\obj\Debug\FlooringMaster.UI.exe
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\obj\Debug\FlooringMaster.UI.pdb
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\bin\Debug\FlooringMaster.BLL.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\bin\Debug\FlooringMastery.Models.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\bin\Debug\FlooringMaster.BLL.pdb
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\bin\Debug\FlooringMastery.Models.pdb
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\bin\Debug\FlooringMaster.Data.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.UI\bin\Debug\FlooringMaster.Data.pdb

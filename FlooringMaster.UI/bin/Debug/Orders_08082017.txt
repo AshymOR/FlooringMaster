@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,patrick,IN,6.00,Carpet,150,2.25,2.10,337.50,315.00,39.1500,691.6500
+2,david,IN,6.00,Carpet,150,2.25,2.10,337.50,315.00,39.1500,691.6500

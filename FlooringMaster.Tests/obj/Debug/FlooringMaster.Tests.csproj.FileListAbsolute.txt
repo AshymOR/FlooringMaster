@@ -1,0 +1,13 @@
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\FlooringMaster.Tests.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\FlooringMaster.Tests.pdb
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\FlooringMaster.BLL.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\FlooringMaster.Data.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\FlooringMastery.Models.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\nunit.framework.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\FlooringMaster.BLL.pdb
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\FlooringMaster.Data.pdb
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\FlooringMastery.Models.pdb
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\bin\Debug\nunit.framework.xml
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\obj\Debug\FlooringMaster.Tests.csprojResolveAssemblyReference.cache
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\obj\Debug\FlooringMaster.Tests.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMaster.Tests\obj\Debug\FlooringMaster.Tests.pdb

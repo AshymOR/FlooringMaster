@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{75697BB9-A9ED-42FD-A4CB-99D7EB96F924}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FlooringMaster.UI</RootNamespace>
+    <AssemblyName>FlooringMaster.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsoleIO.cs" />
+    <Compile Include="Menu.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Workflows\AddOrderWorkflow.cs" />
+    <Compile Include="Workflows\EditOrderWorkflow.cs" />
+    <Compile Include="Workflows\ListOrdersWorkflow.cs" />
+    <Compile Include="Workflows\RemoveOrderWorkflow.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="bin\Debug\FlooringMaster.UI.exe.config" />
+    <None Include="bin\Debug\FlooringMaster.UI.vshost.exe.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\FlooringMaster.UI.csprojResolveAssemblyReference.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FlooringMaster.BLL\FlooringMaster.BLL.csproj">
+      <Project>{72cb9075-7a70-49c1-a430-4bfaf1fa348f}</Project>
+      <Name>FlooringMaster.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlooringMaster.Data\FlooringMaster.Data.csproj">
+      <Project>{22F1996A-F415-464E-80B5-F1025873123B}</Project>
+      <Name>FlooringMaster.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FlooringMastery.Models\FlooringMastery.Models.csproj">
+      <Project>{637c84ca-82b6-46c4-be19-93e20e53d551}</Project>
+      <Name>FlooringMastery.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\FlooringMaster.BLL.dll" />
+    <Content Include="bin\Debug\FlooringMaster.BLL.pdb" />
+    <Content Include="bin\Debug\FlooringMaster.Data.dll" />
+    <Content Include="bin\Debug\FlooringMaster.Data.pdb" />
+    <Content Include="bin\Debug\FlooringMaster.UI.exe" />
+    <Content Include="bin\Debug\FlooringMaster.UI.pdb" />
+    <Content Include="bin\Debug\FlooringMaster.UI.vshost.exe" />
+    <Content Include="bin\Debug\FlooringMastery.Models.dll" />
+    <Content Include="bin\Debug\FlooringMastery.Models.pdb" />
+    <Content Include="bin\Debug\Orders_06012013.txt" />
+    <Content Include="bin\Debug\Products.txt" />
+    <Content Include="bin\Debug\Taxes.txt" />
+    <Content Include="obj\Debug\FlooringMaster.UI.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\FlooringMaster.UI.exe" />
+    <Content Include="obj\Debug\FlooringMaster.UI.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

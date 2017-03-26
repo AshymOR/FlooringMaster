@@ -1,0 +1,5 @@
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojResolveAssemblyReference.cache
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\swgwork\patrick-fette-individual-work\FlooringMaster.UI\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb

@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+2,NewMelissa,IN,6.00,Wood,150,5.15,4.75,772.50,712.50,89.1000,1574.1000
